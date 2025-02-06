@@ -1,4 +1,4 @@
-<img src="https://github.com/ClaudeGoCrazy/gifs/blob/main/programming-high-tech-computer-codes-dme0h7x7m3mtt3uv.gif?raw=true" width="100%" alt="Banner GIF" />
+<img src="https://github.com/ClaudeGoCrazy/gifs/blob/main/channels4_banner%20(1).jpg?raw=true" width="100%" alt="Banner Image" />
 
 # 🏆 Claude Felix  
 **`Digital Creator | Engineer | Data Scientist | Developer`**
@@ -47,6 +47,16 @@ All my projects are **built from the ground up**, from **planning and designing*
 </picture>
 
 ---
+## 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudeGoCrazy&show_icons=true&theme=radical&cache_seconds=3600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudeGoCrazy&layout=compact&theme=radical&cache_seconds=3600" />
+</div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ClaudeGoCrazy&theme=radical" />
+
+
+
 
 ## 📺 **Latest Content & Projects**
 🎮 **Developing VR Applications for Sports Training**  
